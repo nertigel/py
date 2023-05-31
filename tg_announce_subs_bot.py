@@ -26,7 +26,7 @@ async def start(update, context):
 
     with open('users.txt', 'a') as file:
         file.write(f'{user.id},{user.language_code}\n')
-    print(f"added {user.id} to db")
+        print(f"added {user.id} to db")
     #update.message.reply_text('you have been added to the database')
 
 async def announce(update, context):
