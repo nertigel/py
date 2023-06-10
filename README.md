@@ -5,6 +5,6 @@ This script will log a users' ID & language and save it to a file named `users.t
 the `/announce` command will take an argument and iterate through the `users.txt` file and lastly it will send a message to all users that were in the file.
 
 ### proxy_scrapper
-This script will gather proxies of your choice from github repos(will add more l8r) and save them to a .txt file(csv will be added l8r too).
+Moved to https://github.com/nertigel/proxy_scraper/
 
 ###### by Nertigel
